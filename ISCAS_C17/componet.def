@@ -1,0 +1,12 @@
+- gate1 NAND2X1 + PLACED ( 0 0 ) FS
+ ;
+- gate2 NAND2X1 + PLACED ( 2280 0 ) FS
+ ;
+- gate3 NAND2X1 + PLACED ( 4560 0 ) FS
+ ;
+- gate4 NAND2X1 + PLACED ( 9120 0 ) FS
+ ;
+- gate5 NAND2X1 + PLACED ( 6840 0 ) FS
+ ;
+- gate6 NAND2X1 + PLACED ( 11400 0 ) FS
+ ;
